@@ -1,4 +1,6 @@
 {
-"image":"mcr.microsoft.com/devcontainers/base:ubuntu",
-"features":{"ghcr.io/devcontainers/features/nix:1":{}}
+"image":"mcr.microsoft.com/devcontainers/python:3.11",
+"features": {
+    "ghcr.io/devcontainers/features/nix:1": {}
+}
 }
